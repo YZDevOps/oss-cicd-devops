@@ -10,7 +10,7 @@ variables:
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
-  demorg: 'melon-cicd-rg'
+  demorg: 'AKSRG'
   subscription : 'nodejsconnection'
   webappname : 'melonbetawebapp'
   prodwebappname : 'melonbetawebapp-prod'
